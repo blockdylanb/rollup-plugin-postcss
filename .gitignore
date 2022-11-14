@@ -2,3 +2,7 @@
 /coverage/
 /node_modules/
 /package-lock.json
+
+# yarn v2
+.yarn/cache
+.yarn/install-state.gz
